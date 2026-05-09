@@ -3,11 +3,11 @@
   "feeds": [
     {
       "source": "https://www.mosaicx.com/blog",
-      "feed_url": "https://www.mosaicx.com/blog/rss.xml",
-      "saved": 10,
-      "title": "Mosaicx | Conversational AI Blog"
+      "feed_url": "https://www.mosaicx.com/blog/atom.xml",
+      "title": "Mosaicx | Conversational AI Blog",
+      "saved": 0
     }
   ],
   "post_count": 10,
-  "fetched": "2026-05-03T23:38:14Z"
+  "fetched": "2026-05-09T20:17:51Z"
 }
