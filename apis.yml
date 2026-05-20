@@ -19,6 +19,8 @@ created: '2026-05-03'
 modified: '2026-05-03'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/west-tg
   - type: Website
     url: https://www.west.com
   - type: Portal
