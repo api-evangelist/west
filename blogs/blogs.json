@@ -5,9 +5,10 @@
       "source": "https://www.mosaicx.com/blog",
       "feed_url": "https://www.mosaicx.com/blog/atom.xml",
       "title": "Mosaicx | Conversational AI Blog",
-      "saved": 0
+      "saved": 0,
+      "last_error": "http_404"
     }
   ],
   "post_count": 10,
-  "fetched": "2026-05-09T20:17:51Z"
+  "fetched": "2026-05-17T20:20:35Z"
 }
