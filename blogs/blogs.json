@@ -2,13 +2,20 @@
   "repo": "west",
   "feeds": [
     {
-      "source": "https://www.mosaicx.com/blog",
+      "source": "https://www.mosaicx.com/blog/atom.xml",
       "feed_url": "https://www.mosaicx.com/blog/atom.xml",
-      "title": "Mosaicx | Conversational AI Blog",
+      "title": "",
       "saved": 0,
-      "last_error": "http_404"
+      "method": "feed"
+    },
+    {
+      "source": "https://console.mosaic-cx.com",
+      "feed_url": "https://console.mosaic-cx.com",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 10,
-  "fetched": "2026-05-17T20:20:35Z"
+  "post_count": 12,
+  "fetched": "2026-06-01T23:35:02Z"
 }
