@@ -19,6 +19,8 @@ created: '2026-05-03'
 modified: '2026-05-03'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/west-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/west-tg
   - type: Website
